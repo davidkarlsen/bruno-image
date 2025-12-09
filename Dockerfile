@@ -1,4 +1,4 @@
 FROM node:lts-bookworm-slim
-RUN npm install -g @usebruno/cli@2.14.3
+RUN npm install -g @usebruno/cli@2.14.4
 ENTRYPOINT ["bru"]
 CMD ["run"]
