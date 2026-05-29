@@ -1,5 +1,9 @@
 # Docker Image for Bruno
 
+> [!IMPORTANT]
+> **This repository is archived.** Bruno now publishes an official Docker image — please migrate to it.
+> See [usebruno/bruno#1415 (comment)](https://github.com/usebruno/bruno/issues/1415#issuecomment-4572913079) for details.
+
 This project contains a Dockerfile to build an image for
 [Bruno](https://github.com/usebruno/bruno), a tool for testing and
 exploring web APIs.
